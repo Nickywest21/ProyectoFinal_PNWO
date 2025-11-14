@@ -6,11 +6,15 @@ Este proyecto implementa un clasificador y analizador de gramáticas según la j
 Instrucciones de uso
 1.	Abre la página web principal.
 2.	Selecciona la sección que deseas utilizar:
-o	Analizar Gramática: ingresa la gramática y presiona el botón deseado.
-o	Analizador de Autómatas: ingresa el JSON del autómata y presiona Analizar Autómata.
-o	Regex → AFD → Gramática: Ingresa la expresión regular y presiona Convertir.
-o	Tutor de Chomsky: Responde a la pregunta mostrada y presiona Enviar respuesta.
-o	Analizador de equivalencias: Ingresa las dos gramáticas y presiona Comparar.
-3.	Observa los resultados en los cuadros de salida correspondientes.
-4.	Para limpiar los campos, utiliza los botones Limpiar de cada sección.
-5.	Para gramáticas regulares, se mostrará un diagrama del autómata generado.
+    Analizar Gramática: ingresa la gramática y presiona el botón deseado.
+    
+    Analizador de Autómatas: ingresa el JSON del autómata y presiona Analizar Autómata.
+    
+    Regex → AFD → Gramática: Ingresa la expresión regular y presiona Convertir.
+    
+    Tutor de Chomsky: Responde a la pregunta mostrada y presiona Enviar respuesta.
+    
+    Analizador de equivalencias: Ingresa las dos gramáticas y presiona Comparar.
+4.	Observa los resultados en los cuadros de salida correspondientes.
+5.	Para limpiar los campos, utiliza los botones Limpiar de cada sección.
+6.	Para gramáticas regulares, se mostrará un diagrama del autómata generado.
